@@ -1,0 +1,424 @@
+.container2{
+    width: 1100px;
+    margin: 0px;
+    max-width: 100%;
+}
+.plusLink>img{
+    width: 13px;
+    height: 13px;
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+.detailTop{
+    font-size: 0.8rem;
+}
+.detailTopinner{
+    display: inline-block;
+    position: relative;
+    background: #CD1719;
+    max-width: 100%;
+    color: white;
+    padding: 0.3rem 1.5rem 0.3rem 0.75rem;
+    font-size: 1.5em;
+    line-height: 1.05;
+    font-weight: 400;
+    font-family: "Francois One","Arial Narrow","Impact",Arial,Helvetica,sans-serif;
+
+    z-index: 0;
+    border-bottom-color: #CD1719;
+    margin: 2rem 0 1rem 1.53rem;
+    
+}
+.detailTopinner::before{
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: 1.1em solid transparent;
+    border-bottom-color: #CD1719;
+    left: -1em;
+    clip: rect(0 1.1em auto auto);
+    bottom: 0;
+}
+.detailTopinner span{
+    font-size: 24px;
+    line-height: 1.05;
+    font-weight: 400;
+    font-family: "Francois One","Arial Narrow","Impact",Arial,Helvetica,sans-serif;
+    display: inline-block;
+    overflow: unset;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: auto;
+    max-width: 100%;
+    vertical-align: top;
+    /* letter-spacing: -0.084rem; */
+}
+.topDetail1{
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.14);
+    margin: 0 auto 0.5rem auto;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column-reverse;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: column-reverse;
+}
+.topDetail1 .bga{
+    cursor: pointer;
+    padding-right: 1.6rem;
+    font-size: 0.8rem;
+    position: relative;
+    height: 3rem;
+    background: #fff;
+}
+.bga{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background: url(/images/images.png) -162px 1px no-repeat; */
+}
+.dropIcon{
+    width: 20px;;
+    height: 15px;
+    color: #cd1719;
+    
+}
+.dropIcon i{
+    font-size: 22px;
+}
+.dropIcon img{
+    width: 100%;
+    height: 100%;
+}
+
+.topDetail1 .bga>h3,.detailAnother .bga>h3{
+    font-size: 1.2rem;
+    color: #cd1719;
+    padding: 0 0 0 2.2rem;
+    margin: 0;
+    line-height: unset;
+
+}
+.detailFormInnerPAart{
+    height: auto;
+    overflow: visible;
+
+}
+.innerForm{
+    padding: 1.1rem 2.2rem;
+    background: #fff;
+}
+.innerFormContent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+}
+.innerLEFTcONTENT{
+    width: 45%;
+    margin-bottom: 1.1rem;
+}
+.INNERrIGHTcONTENT{
+    width: 45%;
+    margin-bottom: 1.1rem;
+
+}
+.look{
+    display: block;
+}
+.notlook{
+    display: none;
+}
+.setion1Crad2{
+    display: flex;
+}
+.setion1Crad2 label{
+    visibility: hidden;
+}
+.plusSeelect a{
+    position: relative;
+    text-align: center;
+    line-height: 1.4rem;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    color: black;
+}
+.rightFormInput{
+    flex: 2;
+    width: 100%;
+    background-color: #fff;
+    border: 2px solid #dbdbdb;
+
+}
+.rightFormInput input{
+    padding: 3px 8px;
+    width: 100%;
+}
+.rightSection2{
+    margin-bottom: 10px;
+}
+.plusSeelect .plusLink::before{
+    background: url(/assets/images/icons.svg) 0 -40px;
+}
+.formDetail label{
+    font-size: 14px;
+}
+.rightFormTop,.rightSection2{
+    display: flex;
+    
+}
+.rightFlex{
+    margin-top: 0;
+}
+.rightFlex,.rightSectionSeelect{
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+}
+.rightFormTop label,.rightSection2 label{
+    flex: 1;
+}
+.rightSectionSeelect2{
+    flex: 2;
+}
+.singleFormTop2,.formTopNext2{
+    display: flex;
+    align-items: center;
+}
+.singleFormTop2 label{
+    flex: 1;
+}
+.selectoption.selectoption2{
+    flex: 2;
+}
+.drop-down2,.selected2{
+    width: 100%;
+}
+.formTopNext2 label{
+    flex: 1;
+}
+.formTopNextSelect2{
+    flex: 2;
+}
+.singleSelect2{
+    width: 100%;
+}
+.formTopNext2{
+    gap: 0;
+}
+.singleSelect2 select{
+    width: 100%;
+}
+.inputForm2{
+    margin-bottom: 10px;
+}
+.inputForm2 label{
+    flex: 1;
+}
+.inputs2{
+    flex: 2;
+}
+.singleFormTop2{
+margin-bottom: 10px;}
+.setion1Crad2{
+    margin-bottom: 10px;
+}
+.setion1Crad2 label{
+    flex:1
+
+}
+.setion1Crad2 .plusSeelect{
+    flex: 2;
+}
+/* .detailBottom1{
+    margin-top: 2.8rem;
+} */
+.detailBottom2{
+    z-index: 9;
+    background: rgba(219, 219, 219, 0.6);
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    padding-top: 0.66rem;
+    padding-bottom: 0.81rem;
+    position: fixed;
+    max-width: 1100px;
+
+}
+.detailBotto1INNER{
+    padding: 0 3.2%;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+}
+.detailBotto1INNER button{
+    
+    background: #CD1719;
+    box-shadow: 0 3px 0 #9F1213;
+    line-height: 1.7;
+    text-align: center;
+    border-radius: 0.3125rem;
+    font-size: 1rem;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all .1s;
+    border: none;
+    cursor: pointer;
+    font-family: "Francois One","Arial Narrow","Impact",Arial,Helvetica,sans-serif;
+    padding: 0.12rem 2.5rem 0.12rem 2.5rem;
+    -webkit-transition: all .1s;
+    -moz-transition: all .1s;
+
+}
+.detailAnother{
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.14);
+    margin: 0 auto 0.5rem auto;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column-reverse;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: column-reverse;
+}
+.detail2{
+    height: auto;
+    overflow: visible;
+}
+.detailAnother .bga{
+    cursor: pointer;
+    padding-right: 1.6rem;
+    font-size: 0.9rem;
+    position: relative;
+    height: 3rem;
+    background: #fff;
+}
+
+
+.detail2Inner{
+    padding: 1.1rem 2.2rem;
+    background: #fff;
+}
+.detail2Inner2{
+    flex: 2;
+    -webkit-flex: 2;
+}
+.mainDetail{
+    /* padding-top: 20px; */
+}
+.cardsContainerDetail2{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+.cardcONTAINERdETAILK2,.cardcONTAINERdETAILK3{
+    list-style: none;
+    padding: 0px;
+    width: 50%;
+}
+.detailAnother label{
+    font-size: 14px;
+}
+.cardcONTAINERdETAILK3{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.cardcONTAINERdETAILK3>li{
+    flex: 1;
+}
+.rotate{
+    transition: all 0.5s ease-in-out;
+    transform: rotate(180deg);
+}
+@media(max-width:767px){
+
+    .innerFormContent,.cardsContainerDetail2{
+        flex-direction: column;
+    }
+    .innerLEFTcONTENT,.INNERrIGHTcONTENT,.cardcONTAINERdETAILK2, .cardcONTAINERdETAILK3{
+        width: 100%;
+    }
+    .singleFormTop2,.setion1Crad2{
+        flex-direction: column;
+        align-items: start;
+        gap: 10px;
+    }
+    .setion1Crad2 label{
+        display: none;
+    }
+    .innerForm,.detail2Inner{
+        padding: 1.2rem 3%;
+    }
+    .formTopNext2,.rightFormTop,.rightSection2{
+        flex-direction: column;
+        align-items: start;
+        gap: 10px;
+    }
+    .rightSection2,.rightFormTop{
+        margin-top: 0.6rem;
+    }
+    .cardcONTAINERdETAILK2{
+        margin: 0;
+    }
+    .detail2 label{
+        font-size: 14px;
+    }
+    .detailAnother a>h3{
+        padding-left: 3%;
+    }
+    .cardcONTAINERdETAILK3{
+        flex-direction: column;
+        margin: 0;
+    }
+    .detailBotto1INNER button{
+        font-size: 14px;
+    }
+}
+@media(max-width:1100px){
+.detailTopinner{
+    margin: 1rem 0;
+}
+.innerForm,.detail2Inner{
+    padding: 1.1rem 0.8rem;
+}
+
+
+.topDetail1 .bga>h3,.detailAnother .bga>h3{
+    padding: 0 0 0 1rem;
+}
+.cardcONTAINERdETAILK3 {
+    margin: 0;
+}
+.mainDetail{
+    padding-top: 20px;
+}
+}

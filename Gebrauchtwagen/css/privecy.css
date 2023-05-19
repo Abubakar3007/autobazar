@@ -1,0 +1,29 @@
+.contentSlaes2 h3{
+    color: #353434;;
+    font-size: 17px;
+}
+.contentSlaes2 ul{
+ list-style:disc;
+ font-size: 14px;
+}
+.contentSlaes2 ul li{
+    line-height: 24px;
+}
+.contentSlaes2 a{
+    color: black;
+}
+.contentSlaes2 h2{
+    font-size: 19px;
+}
+.date{
+    font-size: 14px;
+    line-height: 24px;
+}
+.privecyTop{
+    padding-top: 20px;
+}
+@media(max-width:767px){
+    .privecy{
+        padding-top: 0.8rem;
+    }
+}

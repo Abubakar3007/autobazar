@@ -1,0 +1,253 @@
+                                <div class="main2Heading">
+                                    <h1>Austrian new and used cars</h1>
+                                </div>
+                                <div class="formTopLinks">
+                                    <div class="singlelink">
+                                        <a href="">AUTOMOBILE</a>
+                                        <div data-css-19qwzed="" class="svg"><svg width="62" height="40"
+                                                viewBox="0 0 62 40" version="1.1">
+                                                <path class="curve-corner"
+                                                    d="M0 0c24.801 0 29.191 36.811 62 40h-62v-40z"></path>
+                                            </svg></div>
+                                    </div>
+                                    <div class="singlelink2">
+                                        <a href="">VANS</a>
+
+                                    </div>
+                                    <div class="singlelink3">
+                                        <a href="">CARAVAN</a>
+                                        <div data-css-19qwzed=""><svg width="62" height="40" viewBox="0 0 62 40"
+                                                version="1.1">
+                                                <path class="curve-corner"
+                                                    d="M0 0c24.801 0 29.191 36.811 62 40h-62v-40z"></path>
+                                            </svg></div>
+                                    </div>
+                                </div>
+                                <div class="formContainer">
+
+                                    <div class="formGroup">
+                                        <form action="" class="form">
+                                            <div class="formLeft">
+                                                <div class="topFormLeft">
+                                                    <div class="singleFormTop">
+                                                        <label for="">brand</label>
+                                                        <div class="selectoption">
+                                                            <!-- CUSTOM DROPDOWN -->
+                                                            <!--COURTESY:"http://www.jankoatwarpspeed.com/reinventing-a-drop-down-with-css-and-jquery" -->
+
+                                                            <div class="drop-down">
+                                                                <div class="selected">
+                                                                    <a href="#"><span>Alle Marken</span></a>
+                                                                    <div class="icon">
+                                                                        <i class="fa fa-light fa-chevron-down"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="options">
+                                                                    <ul>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="singleFormTop">
+                                                        <label for="">Model</label>
+                                                        <div class="selectoption">
+                                                            <!-- CUSTOM DROPDOWN -->
+                                                            <!--COURTESY:"http://www.jankoatwarpspeed.com/reinventing-a-drop-down-with-css-and-jquery" -->
+
+                                                            <div class="drop-down">
+                                                                <div class="selected2">
+                                                                    <a href="#"><span>Alle Marken</span></a>
+                                                                    <div class="icon">
+                                                                        <i class="fa fa-light fa-chevron-down"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="options2">
+                                                                    <ul>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                        <li><a href="#">User1<span
+                                                                                    class="value">1</span></a></li>
+                                                                        <li><a href="#">User2<span
+                                                                                    class="value">2</span></a></li>
+                                                                        <li><a href="#">User3<span
+                                                                                    class="value">3</span></a></li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="formTopNext">
+                                                    <label for="">Price</label>
+                                                    <div class="formTopNextSelect">
+                                                        <div class="singleSelect">
+                                                            <select name="" id="">
+                                                                <option value="">1</option>
+                                                            </select>
+                                                        </div>
+                                                        <div class="singleSelect">
+                                                            <select name="" id="">
+                                                                <option value="">1</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="formTopNext">
+                                                    <label for="">Price</label>
+                                                    <div class="formTopNextSelect">
+                                                        <div class="singleSelect">
+                                                            <select name="" id="">
+                                                                <option value="">1</option>
+                                                            </select>
+                                                        </div>
+                                                        <div class="singleSelect">
+                                                            <select name="" id="">
+                                                                <option value="">1</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="fromRight">
+                                                <div class="formTopNext">
+                                                    <label for="">Price</label>
+                                                    <div class="formTopNextSelect">
+                                                        <div class="singleSelect">
+                                                            <select name="" id="">
+                                                                <option value="">1</option>
+                                                            </select>
+                                                        </div>
+                                                        <div class="singleSelect">
+                                                            <select name="" id="">
+                                                                <option value="">1</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="singleFormTop">
+                                                    <label for="">Model</label>
+                                                    <div class="selectoption">
+                                                        <select name="" id="">
+                                                            <option value="1">1</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <div class="inputForm">
+                                                    <label for="">Register</label>
+                                                    <div class="inputs">
+                                                        <div class="input">
+                                                            <input type="text">
+                                                        </div>
+                                                        <div class="input">
+                                                            <input type="text">
+                                                        </div>
+                                                        <div class="inputFormSelect">
+                                                            <select name="" id="">
+                                                                <option value="">1</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="check">
+                                                    <div class="leftCheck">
+                                                        <label for="">lebal cehcl</label>
+                                                    </div>
+                                                    <div class="checkbOXgROUP">
+                                                        <div class="singleCheckBox">
+                                                            <input type="checkbox">
+                                                            <label for="">onluy new</label>
+                                                        </div>
+                                                        <div class="singleCheckBox">
+                                                            <input type="checkbox">
+                                                            <label for="">onluy new</label>
+                                                        </div>
+                                                        <div class="singleCheckBox">
+                                                            <input type="checkbox">
+                                                            <label for="">onluy new</label>
+                                                        </div>
+                                                        <div class="singleCheckBox">
+                                                            <input type="checkbox">
+                                                            <label for="">onluy new</label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <div class="btnGroup">
+                                        <div class="btnLeft">
+                                            <button>
+                                                Show hits (100,256)
+                                            </button>
+                                        </div>
+                                        <div class="btnLink">
+                                            <a href="">For detailed search</a>
+                                        </div>
+                                    </div>
+                                </div>

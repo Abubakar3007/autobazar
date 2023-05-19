@@ -1,0 +1,380 @@
+.maindetailRightContainer{
+
+    width: 25%;
+    position: sticky;
+    top:0 ;
+}
+.detailTop3{
+    margin: 1rem auto -16px auto;
+}
+.found{
+
+    align-items: flex-start;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.mainDetailLeftConatiner{
+    width: 73%;
+}
+.contentSlaes{
+    background: #FFFFFF;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.14);
+    padding: 1.2rem 3.2% 1.2rem 3.2%;
+    margin-top: 1rem;
+}
+.sellCarInnerList{
+    padding: 0;
+    margin: 0;
+    border-bottom: 4px solid #EDEDED;
+}
+.sellCarUlList{
+    list-style: none;
+    border-top: 4px solid #EDEDED;
+    padding: 0.75rem 0;
+}
+.sellCarUlListTop{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+ 
+}
+.sellCarInnerListLiBottom{
+    width: 100%;
+
+    display: flex;
+    justify-content: flex-start;
+
+}
+.sellCarTopInfo{
+    width: 66.67%;
+}
+.sellCarTopLogo{
+    width: 33.33%;
+    text-align: right;
+}
+.nameWithRating{
+
+    display: flex;
+    align-items: baseline;
+  
+
+}
+.sellCarContacts{
+    display: flex;
+}
+.nameWithRating h2{
+    margin-top: 0;
+
+    font-size: 1.1rem;
+
+    font-family: "Francois One","Arial Narrow","Impact",Arial,Helvetica,sans-serif;;
+    line-height: 0.5;
+}
+.ratingWithNumber{
+    margin-left: 0.5rem;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    cursor: pointer;
+}
+.ratings{
+
+    display: flex;
+    align-items: center;
+
+}
+.address{
+    width: 50%;
+    line-height: 24px;
+    font-size: 14px;
+}
+.address p{
+    line-height: 10px;
+}
+.sellCarInnerListLiBottom{
+    width: 100%;
+
+    display: flex;
+    justify-content: flex-start;
+
+}
+.sellCarInnerListLiBottomLink{
+    width: 33.3%;
+    padding-right: 0.5rem;
+}
+.action-link{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    background: #dbdbdb;
+    color: #000;
+    border-radius: 0.1300rem;
+    margin-top: 0.4rem;
+    padding: 0.35rem 0.7rem 0.35rem 5px;
+    font-size: 0.7rem;
+    line-height: 1.2;
+
+}
+.sellCarNavbar{
+    background: #fff;
+
+    display: flex;
+    justify-content: space-between;
+    margin: 0.75rem 0 0;
+    padding: 0.5rem 1.75rem;
+    align-items: center;
+
+}
+.SellLeftArrow,.sellRightArrow{
+            cursor: not-allowed;
+        opacity: 0.25;
+        display: block;
+        display: block;
+        height: 1.5rem;
+        line-height: 1.5rem;
+        overflow: hidden;
+        background: #dbdbdb;
+        padding: 0 0.4rem;
+        width: 1.5rem;
+        border-radius: 2px;
+}
+.sellRightArrow{
+    opacity: 1;
+}
+.navPageDesktop{
+
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+.navPageDesktop li>span{
+    display: block;
+    min-width: 1.5rem;
+    text-align: center;
+    line-height: 1.5rem;
+}
+.navPageDesktop li>span>a{
+    color: black;
+    font-size: 14px;
+}
+.navPageDesktop li>span>span{
+    color: #CD1719;
+    font-weight: 700;
+    font-size: 14px;
+}
+.page-nave__mobile{
+    display: none;
+}
+.rightFoundCard{
+    display: block;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 1rem 0.75rem 1.3rem 0.75rem;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.14);
+
+
+}
+.foundFormInput{
+    margin-top: 5px;
+    width: 100%;
+
+}
+.foundFormInput input{
+width: 100%;
+border: 2px solid #eee;
+padding: 5px 10px;
+}
+.rightFoundCard h2{
+    margin: 0;
+    color: #CD1719;
+
+    font-size: 1.1rem;
+
+    font-family: "Francois One","Arial Narrow","Impact",Arial,Helvetica,sans-serif;
+
+    line-height: 1.05;
+}
+.rightFoundCard label{
+    font-size: 14px;
+}
+.formLabelInput{
+    margin-bottom: 15px;
+}
+.foundBtn{
+    margin-top: 10px;
+    width: 100%;
+}
+.foundBtn button{
+    background: #CD1719;
+    box-shadow: 0 3px 0 #9F1213;
+    line-height: 1;
+    text-align: center;
+    border-radius:0.1500rem;
+    font-size: 0.9rem;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all .1s;
+    border: none;
+    cursor: pointer;
+    font-family: "Francois One","Arial Narrow","Impact",Arial,Helvetica,sans-serif;
+    padding:9px ;
+    width: 100%;
+    font-weight: bold;
+}
+.hidedetail{
+    display: none;
+}
+.sellCarTopLogo img{
+    max-width: 100%;
+    max-height: 100%;
+}
+@media(max-width:1020px){
+
+    .hidedetail{
+        display: block;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .hidedetail2{
+        margin-left: 0;
+        margin-bottom: 0;
+    }
+    .rightFoundCard{
+padding-left: 0;
+padding-right: 0;
+    }
+    .detailTop3{
+        display: none;
+    }
+    .found{
+        flex-direction: column-reverse;
+    }
+    .maindetailRightContainer{
+        position: relative;
+        width: 100%;
+        
+    }
+    .rightFoundCard h2{
+        display: none;
+    }
+    .foundForm{
+        display: flex;
+        align-items: center;
+    }
+    .formLabelInput{
+        margin: 0;
+        padding: 0 0.5rem;
+    }
+    .formLabelInput:nth-of-type(2){
+        padding-left: 0;
+    }
+    .formLabelInput,.foundBtn{
+flex: 1;
+    }
+    .formLabelInput input{
+        border: 2px solid #dbdbdb;
+        background-color: #fff;
+        padding: 7px;
+    }
+    .rightFoundCard{
+        background-color: transparent;
+        box-shadow: none;
+    }
+    .mainDetailLeftConatiner{
+        width: 100%;
+    }
+    .foundBtn{
+        margin: 0;
+        padding-top: 1.4rem;
+        padding-right: 0.5rem;
+    }
+    .foundsales{
+        padding: 1.5rem 3%;
+    }
+    .foundBtn button{
+
+        margin: 0;
+        font-size: 14px;
+        box-shadow: none;
+    }
+    .foundCarInner{
+        padding-left:0;
+        padding-right: 0;
+    }
+
+
+}
+@media(max-width:767px){
+    .nameWithRating{
+        flex-direction: column;
+        /* align-items: center; */
+    }
+    .ratingWithNumber{
+        margin-left: 0;
+    }
+    .nameWithRating h2{
+        line-height: 1.5;
+        margin-bottom: -14px;
+    }
+    .sellCarInnerListLiBottomLink{
+        width: 48%;
+    }
+}
+@media(max-width:535px){
+    .nameWithRating,.sellCarInnerListLiBottom{
+        flex-direction: column;
+        /* align-items: center; */
+    }
+
+    .sellCarInnerListLiBottom{
+        width: 100%;
+    }
+    .sellCarInnerListLiBottomLink{
+        width: 100%;
+        padding-right: 0;
+    }
+    .ratings>i{
+        font-size: 12px;
+    }
+    .sellCarUlListTop{
+        margin-bottom: 0;
+    }
+    .foundForm{
+        display: grid;
+        grid-template-columns: repeat(2,2fr);
+    }
+    .page-nave__desktop{
+        display: none;
+    }
+    .page-nave__mobile{
+        display:block;
+    }
+    .page-nave__mobile ul{
+        padding: 0;
+        display: flex;
+        align-items: center;
+    }
+    .page-nave__mobile ul>li{
+        min-width: 1.5rem;
+        font-size: 14px;
+    }
+    .sellCarNavbar{
+        margin-top: 0;
+        padding: 1rem 3%;
+    }
+    .page-nave__mobile ul>li>span>a{
+        color: black;
+    }
+    .page-nave__mobile ul>li>span>span{
+        color: #CD1719;
+    }
+    .nameWithRating h2{
+        font-size: 0.9rem;
+    }
+}
+    
+

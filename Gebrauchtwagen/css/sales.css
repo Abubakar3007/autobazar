@@ -1,0 +1,80 @@
+.detailTopinner2{
+    display: inline-block;
+    position: relative;
+    background: #CD1719;
+    max-width: 100%;
+    color: white;
+    padding: 0.3rem 0.75rem 0.3rem 0.75rem;
+    font-size: 1.5em;
+    line-height: 1.05;
+    font-weight: 800;
+    font-family: "Francois One","Arial Narrow","Impact",Arial,Helvetica,sans-serif;
+    z-index: 0;
+    border-bottom-color: #CD1719;
+    margin: 0rem 0 1rem 1.53rem;
+}
+.detailTopinner2::before{
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: 1.1em solid transparent;
+    border-bottom-color: #CD1719;
+    left: -1em;
+    clip: rect(0 1.1em auto auto);
+    bottom: 0;
+}
+.contentSlaes{
+    background: white;
+    padding: 2rem 2.8% 1.3rem 2.8%;
+    box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.14);
+    word-wrap: break-word;
+    line-height: 2.2rem;
+}
+.contentInner{
+    margin: auto;
+    max-width: 800px;
+    padding-left: 1.33rem;
+}
+.contentSlaes2 p{
+    font-size: 13px;
+    line-height: 24px;
+}
+.first-prompt{
+    margin-top: 0;
+}
+.contentSlaes2 h3{
+    color: #CD1719;
+    font-size: 1.1rem;
+    font-family: "Francois One","Arial Narrow","Impact",Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: -1px;
+}
+.link-pdf{
+    display: inline-block;
+    cursor: pointer;
+    background: #dbdbdb;
+    color: #000;
+    border-radius: 0.1200rem;
+    font-size: 14px;
+    line-height: 1.7;
+    padding: 0.20rem 0.3rem;
+    transition: 0.4s all ease-in-out;
+}
+.link-quinary{
+    color: black;
+    text-decoration: underline;
+}
+.link-pdf:hover{
+    background: #bdbdbd; 
+}
+@media(max-width:767px){
+    .contentInner{
+     
+        padding: 0 3%;
+    } 
+    .detailTopinner2{
+        margin: 0rem 0 1rem 0rem;
+    }
+}

@@ -1,0 +1,67 @@
+.contactTopHeading h2 {
+    margin-top: 0;
+    color: #CD1719;
+    font-size: 18px;
+}
+
+.contactForm {
+    line-height: normal;
+}
+
+.contactFormPara {
+    font-size: 14px;
+    margin: 1rem 0 0rem 0;
+}
+
+.contactRadio {
+    position: relative;
+    padding-top: 1rem;
+}
+.contactpt{
+    padding-top: 20px;
+}
+.contactRadio>div {
+    margin-bottom: 5px;
+}
+
+.contactRadio>div>label {
+    font-size: 14px;
+    color: #000;
+}
+
+.contactPara2 
+{
+    line-height: 0px;
+    font-size: 14px;
+}
+.contactPara2 p>a{
+    color: black;
+    text-decoration: underline;
+}
+.contactPara2 p{
+    line-height: 10px;
+}
+.contactBtn {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    background: #dbdbdb;
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #000;
+    border: none;
+    border-radius: 0.1300rem;
+    padding: 6px 12px;
+    max-width: 100%;
+    margin: 1.5rem 0;
+    line-height: 1rem;
+
+}
+.contactBtn:hover{
+    background-color: #b1afaf;
+}
+@media(max-width:475px){
+    .contactPara2 p{
+        line-height: 22px;
+    }
+}
